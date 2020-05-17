@@ -10,7 +10,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 ## Project outline:
 
-This project is to aggregate the data found in the Citi Bike Trip History Logs (January - August, 2019) and generate a report that shows data visulizations to find unexpected phenomena.
+This project is to aggregate the data found in the Citi Bike Trip History Logs (January - August, 2019) and generate a report that shows data visualizations to find unexpected phenomena.
 
 The result of this project is posted on the Tableau Public. This project only focuses on the timespan from January, 2019 to August, 2019 due to limition of Tableau Public (maximum: 15,000,000 rows).
 
